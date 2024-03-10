@@ -2,7 +2,7 @@
 
 ---
 ## The why
-With wayland enabled screensharing in apps written with election does not work.
+With wayland enabled, screensharing in apps written with election does not work.
 
 ## How To
 ```bash
