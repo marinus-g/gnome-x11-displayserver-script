@@ -5,6 +5,7 @@
 With wayland enabled, screensharing in apps written with election does not work.
 
 ## How To
+Copy this lines and paste it into a terminal
 ```bash
 git clone https://github.com/marinus-g/gnome-x11-displayserver-script.git && sudo sh gnome-x11-displayserver-script/script.sh
 ```
